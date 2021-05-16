@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2019年09月25日 09:51
-# @Author  : 李思原
-# @Email   : shulisiyuan@163.com
-# @File    : voiceSplit.py
-# @Software: PyCharm
-# @Describe: 将声音进行切片.
+
 
 
 import wave
